@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "561a99354c2a659ae66cec51",
+  "owner": "arjmps",
+  "repo": "page-47d6563e8ddfe7820448f049",
+  "title": "机场测评",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "47d6563e8ddfe7820448f049",
+      "a": "机场测评",
+      "b": "",
+      "entity": "机场测评",
+      "brand": "机场测评",
+      "separator": "",
+      "path": "index.html",
+      "hash": "30c0d404a4aa1d3c7b7b89c854bc61ae5d74709093970b7ac208a259869450e7",
+      "content": {
+        "keyword1": "机场测评",
+        "keyword2": "",
+        "primary_entity": "机场测评",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "机场测评提供专业VPN加速器与机场订阅服务，涵盖基础版、旗舰版、团队版多种套餐，支持多设备在线、流媒体解锁及游戏加速。立即访问官网下载客户端开启稳定高速网络体验！",
+          "AI_DESCRIPTION": "机场测评提供专业VPN加速器与机场订阅服务，涵盖基础版、旗舰版、团队版多种套餐，支持多设备在线、流媒体解锁及游戏加速。立即访问官网下载客户端开启稳定高速网络体验！"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>body{background:#f8f5f2;margin:0;font-family:system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;line-height:1.6;color:#333}main{max-width:1200px;margin:0 auto;padding:20px}h1{color:#ff6b6b;text-align:center;font-size:2.5em;margin-bottom:10px}h2{color:#ff6b6b;font-size:1.8em;margin:30px 0 15px}p{font-size:1.1em;margin-bottom:15px}ul,ol{padding-left:20px}li{margin-bottom:8px}.plans{display:flex;flex-wrap:wrap;gap:20px;justify-content:center}.plan-card{flex:1;min-width:280px;border:1px solid #ddd;border-radius:8px;padding:20px;transition:transform .3s}.plan-card:hover{transform:translateY(-5px)}.plan-card.featured{border-color:#ff6b6b;background:#fff9f5}.plan-card h3{color:#ff6b6b;margin:0 0 10px}.details{border:1px solid #ddd;border-radius:8px;margin-bottom:15px;overflow:hidden}.summary{padding:15px;font-weight:bold;cursor:pointer;background:#fff}.summary:hover{background:#f8f5f2}.content{padding:0 15px 15px;background:#fff}footer{text-align:center;padding:20px;margin-top:40px;color:#666;font-size:.9em}@media(max-width:768px){main{padding:15px}h1{font-size:2em}.plans{flex-direction:column}.plan-card{min-width:100%}}</style><main><h1>机场测评</h1><p>专业VPN加速器与机场订阅平台</p><section><h2>品牌简介</h2><p>机场测评是专注于VPN加速与机场订阅的知名平台，致力于为全球用户提供稳定、高速、安全的网络解决方案。我们帮助用户突破地域限制，畅享无忧互联网体验。</p></section><section><h2>使用场景</h2><p>• 家庭多人在线共享<br>• 跨国游戏加速<br>• 流媒体平台解锁<br>• 远程办公与学习</p></section><section><h2>配置流程</h2><ol><li>访问机场测评官网，下载官方客户端。</li><li>注册账号并完成身份验证。</li><li>选择合适套餐并完成支付。</li><li>获取订阅链接，导入客户端。</li><li>选择节点并连接服务器。</li></ol></section><section><h2>选择您的套餐</h2><div class=\"plans\"><div class=\"plan-card\"><h3>基础版</h3><p>¥15/月</p><p>按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"plan-card featured\"><h3>旗舰版</h3><p>¥35/月</p><p>按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div class=\"plan-card\"><h3>团队版</h3><p>¥85/月</p><p>按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div></div></section><section><h2>常见问题</h2><details class=\"details\"><summary class=\"summary\">什么是机场测评？</summary><div class=\"content\">机场测评是一个专注于VPN加速和机场订阅的知名平台，提供多种灵活的套餐方案，帮助用户实现高速稳定的网络体验。</div></details><details class=\"details\"><summary class=\"summary\">如何选择合适的套餐？</summary><div class=\"content\">根据您的流量需求和设备数量选择：基础版适合轻度使用，旗舰版支持多人游戏和流媒体，团队版适合企业级需求。</div></details><details class=\"details\"><summary class=\"summary\">客户端如何下载？</summary><div class=\"content\">请访问机场测评官网，点击下载页面获取官方客户端。支持Windows、macOS、Android和iOS等多个平台。</div></details><details class=\"details\"><summary class=\"summary\">支持哪些设备？</summary><div class=\"content\">基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台。您可以根据套餐灵活调整。</div></details><details class=\"details\"><summary class=\"summary\">如何解锁流媒体？</summary><div class=\"content\">旗舰版及以上套餐支持全节点原生流媒体解锁，包括Netflix、YouTube等热门平台。基础版仅支持基础解锁。</div></details><details class=\"details\"><summary class=\"summary\">售后支持如何？</summary><div class=\"content\">旗舰版提供7x24优先工单支持，团队版配备专属客户经理服务。如有疑问，我们随时为您解答。</div></details></section><footer><p>© 2024 机场测评 官网下载 | <a href=\"#\">友情链接</a></p></footer><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>",
+          "hash": "cce274e6e0e1026f5a22f3599786554c96a9e974b7f49332648e6ace5ed7364b",
+          "seo": {
+            "title": "机场测评 - VPN加速器 机场订阅 客户端下载 官网",
+            "keywords": "机场测评,VPN加速器,机场订阅,客户端下载,VPN服务,网络加速",
+            "description": "机场测评提供专业VPN加速器与机场订阅服务，涵盖基础版、旗舰版、团队版多种套餐，支持多设备在线、流媒体解锁及游戏加速。立即访问官网下载客户端开启稳定高速网络体验！"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "mooetue.cn",
+    "host": "p-e636a1adc7.mooetue.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "181c13893a2c9d641ceddf9a26d4971fbf670056d7d24e7baccef5a5980a4c08",
+    "sitemap.xml": "6153e10d409ded2da845c15a46e6a83fecb5fd7c112412ff99e07a8af6e92093",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "438ea2b958bda6ca093a9eb7696379550f7097af49c06d0b98264a6cae601437",
+    "robots.txt": "66796fc771433664020024d80feecbbe9430dabf7ca4f3b0fdf21113a8608829",
+    "fc9d596d8ebdd9fa9d85616d04250c44.txt": "6ae755efaf1dbc00af5b077172905becb4fd14874ec460c978e0f1316e98ea89"
+  },
+  "revision": "96a7e46fe535b012238cde2178078fa20ca1b1706bc9733c0bc4b8de5f401869"
+}
